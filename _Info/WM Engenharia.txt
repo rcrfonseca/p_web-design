@@ -1,0 +1,104 @@
+Registro BR:
+
+id: WIMSI39
+senha: wmengenharia
+===============
+Hotel da Web:
+
+Segue abaixo os dados de sua conta em Servidor Windows 2003: 
+ 
+
+SUPORTE E FINANCEIRO
+ 
+Utilize o seu Painel do Cliente para verificar sua situação financeira e solicitar suporte técnico.
+Para acessar o painel, utilize o link abaixo:
+ 
+Painel: http://www.hoteldaweb.com.br/painel
+Login:  wmengenharianet            (esse usuário é válido para acesso "Administrativo")
+Senha:  65711c8a
+ 
+FTP (Para envio dos arquivos)
+ 
+Host: ftp.wmengenharia.net.br ou 174.133.34.170
+User:  wmengenharianet
+Pass:  978932c1
+ 
+PASTAS DE SEU FTP
+ 
+Pasta CGI-BIN - Onde deverá ser alocado seus arquivos CGI, Pearl.
+Pasta ERROR_DOCS - Lugar onde ficam alocados as páginas de erros HTML e seu site, as mesmas podem ser personalizadas
+Pasta HTTPDOCS - Onde deverá ser alocado TODOS os arquivos de seu site
+Pasta HTTPSDOCS - Caso possua chave SSL, esta é a pasta para alocação de seus bancos de dados
+Pasta PRIVATE - Para uso interno do servidor
+Pasta STATISTICS - Neste estão o histórico de acesso ao seu site
+Pasta SUBDOMAINS - Aqui ficam os arquivos dos sub-domínios de seu site
+Pasta VAULT_SCRIPTS - Para uso interno do servidor
+Pasta WEB_USERS - Para uso interno do servidor
+ 
+ 
+CAMINHO FÍSICO
+ 
+c:\inetpub\vhosts\wmengenharia.net.br
+ 
+Para um perfeito funcionamento de sua conta, solicitamos que NÃO altere nenhuma das pastas dispostas em seu FTP. Em caso de dúvidas solicite suporte.
+ 
+VISUALIZAÇÃO
+ 
+Para visualização seu site antes da propagação dos DNS visite: http://174.133.34.170/$sitepreview/wmengenharia.net.br
+ 
+ 
+SERVIDORES DNS (Altere os DNS)
+ 
+IMPORTANTE:
+Para que seu domínio funcione corretamente em nosso provedor,  você deverá efetuar a mudança dos DNS para os nomes DNS informados abaixo: 
+ns7.hoteldaweb.com.br
+ns8.hoteldaweb.com.br
+ 
+ 
+PAINEL DE CONTROLE
+ 
+Abaixo funções essenciais para a utilização das ferramentas de sua conta no Painel de Controle PLESK. Lembramos que as 
+instruções abaixo são a partir de estar logado no sistema.
+ 
+Endereço do Painel:
+http://www.hoteldaweb.com.br/painel
+
+Login:  wmengenharianet
+Senha:  978932c1
+ 
+Após se logar no sistema siga abaixo a instrução que necessitar.
+ 
+ 
+FERRAMENTAS DO DOMÍNIO
+ 
+No link a seguir, você pode verificar como configurar seu E-mail, FTP, Sub-domínios, Criar Banco de Dados e outras opções: http://www.hoteldaweb.com.br/tutorial
+
+ 
+SERVIDORES DE E-MAIL
+ 
+SMTP: mail.wmengenharia.net.br
+POP3: mail.wmengenharia.net.br
+
+ 
+WEBMAIL
+ 
+http://www.hoteldaweb.com.br/webmail
+
+   
+Em caso de dúvidas, não hesite em nos comunicar.
+ 
+ 
+Atenciosamente,
+ 
+ 
+Equipe de Suporte
+Hotel da WEB - Hospedagem Profissional
+(41) 3018-0411
+====================================
+Email IBEST:
+Login: wilsonmoraesdasilva@ibest.com.br
+senha: empresa
+
+Webmail site:
+login: contato@wmengenharia.net.br
+senha: wilsonwm

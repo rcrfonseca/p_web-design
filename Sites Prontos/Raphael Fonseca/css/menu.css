@@ -1,0 +1,45 @@
+@charset "utf-8";
+/* CSS Document 
+Autor: Raphael Fonseca
+Site: raphaelfonseca.com.br
+*/
+
+#menu{
+	width: 100%;
+	background-color: #0066cc;
+	border-bottom: thick solid #333;
+}
+
+#menu ul { /* formatação */
+	/* do margin-left ao display é para centralizar o menu. */
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 0;
+	margin-bottom: 0;
+	display: table;
+	padding: 0px;
+	width: 760px;
+	list-style: none;
+}
+
+#menu ul li{ /* Colocar na horizontal. */
+	display: inline;
+}
+
+#menu ul li a { /* Formatando os links e criando os blocos. */
+	padding: 5px 62px;
+	float: left;
+	/* visual do link */
+	background-color: #0066cc;
+	color: #000;
+	text-decoration: none;
+	border-top: 5px solid #0066cc;
+	border-bottom: 5px solid #0066cc;
+}
+
+#menu ul li a:hover { /* Efeito quando passar o mouse. */
+	background-color: #0066cc;
+	color: #FFF;
+	border-top: 5px solid #EDEDED;
+	border-bottom: 5px solid #0066cc;
+}

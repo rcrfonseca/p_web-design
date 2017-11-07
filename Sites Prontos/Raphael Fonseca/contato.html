@@ -1,0 +1,112 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<link rel="shortcut icon" href="favicon.ico" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Raphael Fonseca - Desenvolvedor Web - Contato</title>
+
+<link href="css/estilo.css" rel="stylesheet" type="text/css" />
+<link href="css/menu.css" rel="stylesheet" type="text/css" />
+<link href="css/formulario.css" rel="stylesheet" type="text/css" />
+
+<!-- Para o Google. -->
+<meta name="Keywords" content="raphael fonseca, webdesign, demoiselle framework, uml, html, css, javascript, tableless, java, hibernate, jpa, struts 1.0, struts 2.0, jsf, ejb, wm engenharia, brasil construtora, sl computadores" />
+
+<meta name="url" content="http://raphaelfonseca.com.br/" />
+<meta name="language" content="Portugues" />
+<meta name="description" content="Desenvolvimento de sites e sistemas web utilizando tecnologias avançadas." />
+<meta name="reply-to" content="kerberuz@gmail.com" />
+<meta name="copyright" content="raphaelfonseca.com.br" />
+<meta name="category" content="Internet" />
+<meta name="Robots" content="Index,Follow" />
+<meta name="author" content="Raphael Fonseca" />
+<link rev="made" href="mailto:kerberuz@gmail.com" />
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-20974956-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</head>
+
+<body>
+	<div id="topo"></div>
+    <!-- Fim do topo -->
+    
+    <div id="menu">
+    <ul>
+    	<li><a href="index.html"> HOME </a></li>
+        <li><a href="sobre.html"> SOBRE </a></li>
+        <li><a href="portfolio.html"> PORTFÓLIO </a></li>
+        <li><a href="contato.html"> CONTATO </a></li>
+    </ul>
+    </div>
+    <!-- Fim do menu -->
+ 
+<div id="site">
+    
+    <div class="clear"> </div><!-- Div vazia para dividir menu do corpo. -->
+
+    <div id="corpoContato">
+          
+      <form id="form" method="post" name="form" action="enviacontato.php">
+      <br/>
+      <h4>Nome:<input name="nome" type="text" size="85" value=""/></h4>
+      <h4>Email:<input name="email" type="text" size="85" value=""/></h4>
+      <textarea name="mensagem" cols="70" rows="5"></textarea>
+      <br/><br/>
+      <input name="enviar" type="button" value="Enviar" onclick="verificaForm()"/>
+      <input name="resetar" type="reset" value="Apagar"/>
+      </form>
+
+    </div>
+    <div class="clear"></div> <!-- Div vazia para dividir corpo de rodapé. -->
+    
+    <!-- Fim do corpo -->
+
+    <div id="rodape"> 
+   	<h4>2012&copy; - Raphael Fonseca | Desenvolvedor Web</h4>
+   	</div>
+  	<!-- Fim do rodapé -->
+    
+</div>
+<!-- Fim do Site -->
+
+<script type="text/javascript">
+	function verificaForm()
+	{
+		f = document.form;
+		
+		if (f.nome.value == "")
+		{ 
+			alert("O campo 'NOME' é obrigatório!");
+			f.nome.focus();
+		 }
+		else if (f.email.value == "") 
+		{ 
+			alert ("O campo 'EMAIL' é obrigatório!");
+			f.email.focus();
+		}
+		else if (f.mensagem.value == "") 
+		{ 
+			alert ("O campo 'MENSAGEM' é obrigatório!"); 
+			f.mensagem.focus();
+		}
+		else 
+		{
+			f.submit();
+		}
+	};
+</script>
+    
+</body>
+</html>

@@ -1,0 +1,67 @@
+Welcome to FreeWebHostingArea.com!
+
+Raphael Fonseca, your account raphaelfonseca.orgfree.com was successfully activated. Your address is http://raphaelfonseca.orgfree.com and you can visit/update your site right now. Add an index page (examples: index.html or index.php) and put your files directly on root. No public_html folder required.
+
+ATTENTION!!! MySQL password is equal with account password. If you change account password don't forget to update configuration for MySQL as password is automatically changed.
+Your Personal Account Information:
+
+Account username: 		raphaelfonseca.orgfree.com
+PassWord: 			52325220
+Host path: 			/home/vhosts/raphaelfonseca.orgfree.com
+Your Personal FTP Information:	FTP Server/Host: 	raphaelfonseca.orgfree.com
+FTP Login/Username: 		raphaelfonseca.orgfree.com
+FTP PassWord: 			52325220
+
+To upload your files go to our Web based FTP client (recommended), located at http://raphaelfonseca.orgfree.com/ftp/.
+
+Once logged in, you will be able to create a new dir, new file, to upload a zip archive and have it unzipped automatically, to edit your files, to select files and download them as .zip, to copy, move, delete, rename, chmod (change permissions), search anything under your account, ability to see and edit dot files like .htaccess. With a normal ftp program you will not be able to do this.
+
+For a complete list of features see http://raphaelfonseca.orgfree.com/ftp/help.html.
+Your Personal MySQL Information:
+MySQL DataBase 	225241
+MySQL HostName 	localhost
+MySQL UserName 	225241
+MySQL PassWord: 	Equal with account password
+Enable your MySQL DataBase via Account Manager ---> use 'Create DB' button.
+
+To update/modify your account  go to Account Manager: http://www.orgfree.com/cgi-bin/amanager.cgi and use:
+
+Account username: raphaelfonseca.orgfree.com
+
+Password: 52325220
+
+Your phpMyAdmin is located at http://raphaelfonseca.orgfree.com/pma/. Log in using MySQL username NOT account username.
+
+With Autoinstaller you will be able to install PhpBB3, SMF, WordPress, Joomla with just one click.
+
+Edit custom error pages to anything you want:
+
+404.html - not found errors (trial)
+
+403.html - forbidden errors
+
+ 
+
+We fully support dot files (.htaccess, .htpasswd) but please note that .htaccess will only have effect under a subfolder of your site (eg. http://raphaelfonseca.orgfree.com/somedir/.htaccess.
+
+Attention!! A wrong .htaccess file can block your site and instead you will see a 500 internal server error.
+
+ 
+
+Php variables: safe_mode, register_globals or magic_quotes_gpc can be easily turned off/on at Account manager.
+
+ 
+
+For just $1/month, you can have ads removed. Go to http://www.freewebhostingarea.com/removeads.html for more details.
+
+To prevent abuse, traffic limit is 5000MB/day. You should contact us as we raise bandwidth limit on request. Please do not request more bandwidth if you don't need it. Don't forget to check our terms, storage/download related sites are not allowed.
+
+If you need a hit tracker (web counter), check our service: 1FreeCounter.com - Professional website statistics, fast and easy signup. All for FREE. Sign up then just copy the code on your pages.
+
+Use a very hard to guess password to prevent your account being hacked. Also, install only new and optimized scripts. Mysql password is equal with account password and if your script with db connection is hacked, entire account is hacked. Take care with file permissions specially with FULL - 777!!! Once installed, set permissions for script configuration file to 644.
+
+ 
+
+Thank you for using our services,
+
+Free Web Hosting Area.com

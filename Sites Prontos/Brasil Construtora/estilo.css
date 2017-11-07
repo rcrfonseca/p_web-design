@@ -1,0 +1,66 @@
+a:link {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: bold;
+	color: #066;
+	text-decoration: underline;
+}
+a:hover {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: bold;
+	color: #0C6;
+	text-decoration: underline;
+}
+a:visited {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: bold;
+	color: #066;
+	text-decoration: underline;
+}
+
+.fundoSite {
+	background-color: #CCC;
+	background-image: url(imagens/marcadaguaBC.gif);
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	background-position: 50% 50%;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	text-align: justify;
+}
+
+.tipografiaRodape {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: bolder;
+	color: #000;
+	text-decoration: none;
+}
+.tipografiaTituloTexto {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	color: #060;
+	text-decoration: none;
+	text-transform: none;
+}
+.tipografiaTexto {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	color: #000;
+	text-decoration: none;
+}

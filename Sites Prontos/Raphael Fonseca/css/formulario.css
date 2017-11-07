@@ -1,0 +1,29 @@
+@charset "utf-8";
+/* CSS Document 
+Autor: Raphael Fonseca
+Site: raphaelfonseca.com.br
+*/
+
+input{
+	border: double;
+	background-color: #333;
+}
+
+/* Mudar cor do campo do formulário. */
+input:focus{
+	border: double;
+	color: #000;
+	background-color: #FFF;
+}
+
+textarea{
+	border: double;
+	background-color: #333;
+}
+
+/* Mudar cor do campo do formulário. */
+textarea:focus{
+	border: double;
+	color: #000;
+	background-color: #FFF;
+}

@@ -1,0 +1,185 @@
+@charset "utf-8";
+/* CSS Document 
+Autor: Raphael Fonseca
+Site: raphaelfonseca.com.br
+*/
+
+/*-----------------------------*/
+/* Estilo para Tags do HTML */
+body{
+	background-color: #171717;
+	margin: 0;
+}
+
+p {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 12px;
+	color: #999;
+	text-align: justify;
+}
+
+h3{
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #06C;
+}
+
+h4{
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #999;
+	text-align: center;	
+	text-shadow: 0px 3px 8px #333;
+}
+
+hr{
+	border: double;
+	border-color: #333;	
+}
+
+/*-----------------------------*/
+/* Estilo para IDs das DIVs */
+
+#site{
+	width: 760px;
+	height: auto;
+	margin: auto;
+}
+
+#topo{
+	margin: 5px;
+	border: 20px;
+	height: 120px;
+	background: url(../imagens/design/logo.png) no-repeat left;
+}
+
+#corpo{
+	width: 760px;
+	margin-top: 30px;
+	min-height: 300px;
+}
+	
+	#corpo a {
+		font-family: Tahoma, Geneva, sans-serif;
+		font-size: 12px;
+		color: #06C;
+		text-decoration: none;
+	}
+	
+	#corpo a:visited {
+		font-family: Tahoma, Geneva, sans-serif;
+		font-size: 12px;
+		color: #06C;
+		text-decoration: none;
+	}
+	
+	#corpo a:hover {
+		font-family: Tahoma, Geneva, sans-serif;
+		font-size: 12px;
+		color: #06C;
+		text-decoration: underline;
+		text-shadow: 2px 5px 10px #333;
+	}
+	
+	#corpo a:active {
+		font-family: Tahoma, Geneva, sans-serif;
+		font-size: 12px;
+		color: #06C;
+		text-decoration: none;
+	}
+
+	#corpoContato{
+		width: 760px;
+		margin-top: 30px;
+		min-height: 300px;
+		text-align: center;
+	}
+	
+	#corpoSobre{
+		width: 760px;
+		margin-top: 30px;
+		min-height: 300px;
+		text-align: justify;
+	}
+		
+		#corpoColunaEsquerda{
+			width: 190px;
+			min-height: 250px;
+			text-align: justify;
+			float: left;
+		}
+		#corpoColunaDireita{
+			width: 190px;
+			min-height: 250px;
+			text-align: justify;
+			float: right;
+		}
+	
+		#corpoIdioma{
+			width: 760px;
+			text-align: justify;
+			float: left;
+		}
+
+#esquerdaIndex{
+	width: 450px;
+	min-height: 250px;
+	margin-right: 10px;
+	float: left;
+}
+
+#direitaIndex{
+	width: 290px;
+	min-height: 250px;
+	margin-left: 10px;
+	float: right;
+}
+
+#esquerdaPortfolio{
+	width: 370px;
+	margin-right: 10px;
+	margin-bottom: 20px;
+	min-height: 250px;
+	float: left;
+}
+
+#direitaPortfolio{
+	width: 370px;
+	margin-left: 10px;
+	margin-bottom: 20px;
+	min-height: 250px;
+	float: right;
+}
+
+#redesSocias{
+	margin-top: 50px;
+	margin-bottom: 50px;
+	width: 760px;
+	text-align: center;
+}
+	#redesSociasColuna{
+		width: 170px;
+		display: inline;
+		margin-left: 10px;
+		margin-right: 10px;
+	}
+
+#rodape{
+
+}
+
+/*-----------------------------*/
+/* Estilo para Classes */
+
+.clear{
+	clear: both;
+}
+
+.textoDestacado {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 12px;
+	color: #06c;
+	text-align: justify;
+}

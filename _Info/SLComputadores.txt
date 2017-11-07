@@ -1,0 +1,130 @@
+Prezado(a) cliente,
+
+A iSET tem um imenso prazer de tê-lo como nosso cliente!
+
+A hospedagem para o domínio slcomputadores.com.br foi instalada e já pode ser configurada.
+Este e-mail contém dados importantes para usar seus recursos de hospedagem com a iSET.
+Por favor, imprima o conteúdo deste e-mail, ou mantenha-o arquivado em um local seguro.
+
+Dados para administração dos seus serviços (Painel de Controle):
+Acesse http://painel.slcomputadores.com.br ou http://ex05.iset.com.br:2082 e digite:
+Usuário: i2446
+Senha: BwGkIdD
+
+Dados para acesso por FTP
+Host: ftp.slcomputadores.com.br
+Usuário: i2446
+Senha: BwGkIdD
+
+- O acesso ao FTP é possível apenas com uso de algum aplicativo, recomendável: FileZilla.
+- Os arquivos do site deverão ser enviados para a pasta PUBLIC_HTML ou WWW
+
+Acesso ao WebMail - Via endereço Web
+
+Acesse http://webmail.slcomputadores.com.br ou http://ex05.iset.com.br:2095 e preencha os campos da seguinte
+forma:
+
+Email: Sempre deverá ser o email completo. (exemplo: joao@seudominio.com.br)
+Senha: (a sua senha de acesso pessoal)
+
+Para configuração no Outlook, utilize os dados abaixo:
+- POP3: mail.slcomputadores.com.br
+- SMTP: mail.slcomputadores.com.br
+
+CONFIGURAÇÃO DE DNS:
+Servidor Master: ns1.iset.com.br
+Servidor Slave: ns2.iset.com.br
+
+A publicação de DNS para domínio *.br ocorre a cada 15 minutos e para domínios internacionais em até 24 horas.
+
+Quaisquer dúvidas, abaixo seguem as informações dos nossos departamentos.
+
+Suporte Técnico
+iCA - Central de Atendimento: http://ica.iset.com.br (Informe os mesmos dados de acesso do painel de controle da iSET informados acima)
+Chat Online: acesse www.iset.com.br e clique em SUPORTE VIA CHAT
+MSN: suporte@iset.com.br
+
+Financeiro
+Email: financeiro@iset.com.br
+Fax: (31) 3498-6262
+
+Comercial
+Email: comercial@iset.com.br
+
+Atendimento Regional:
+(11) 2626-9740 | (21) 4062-0155 | (31) 2626-2012
+
+Atenciosamente,
+
+iSET - Internet, Soluções e Tecnologia
+Equipe Comercial / Relações Empresariais
+www.iSET.com.br
+===============================================
+
+O iShopping foi instalado e já pode ser configurado no dominio
+slcomputadores.com.br.
+Recomendamos que os dados abaixo sejam guardados para serem usados quando
+necessário.
+
+Acesso ao catalogo de produtos:
+URL: http://www.slcomputadores.com.br
+URL ALTERNATIVA: http://temp5.minhalojavirtual.net.br/slcomputadores.com.br
+
+Dados para administração do iShopping (Painel de Controle):
+Acesse http://www.slcomputadores.com.br/admin ou
+http://temp5.minhalojavirtual.net.br/slcomputadores.com.br/admin e digite:
+Login: ishopping
+Senha: admin
+
+Observações:
+
+- O login e senha fornecidos aqui são padrões, é EXTREMAMENTE importante que
+faça a alteração dos dados acima em seu painel de controle o quanto antes.
+- A pasta PUBLIC_HTML e WWW em seu diretório de arquivos será de uso
+exclusivo do iShopping, não podendo assim ser acessada ou alterada.
+
+* Complemente mais a sua loja com um sistema de atendimento on-line
+totalmente completo, o iChat, com ele você poderá deixar sues clientes ainda
+mais perto de você e satisfeitos, consulte algum de nossos operadores,
+visite: www.iset.com.br!
+
+Quaisquer dúvidas, abaixo seguem as informações dos nossos departamentos.
+
+Suporte Técnico
+E-mail/MSN: suporte@iset.com.br
+iCA: http://ica.iset.com.br (Informe os mesmos dados de acesso do painel de
+controle da iSET)
+Chat Online: acesse www.iset.com.br e clique em SUPORTE VIA CHAT
+
+Financeiro
+Email: financeiro@iset.com.br
+Fax: (31) 3498-6262
+
+Comercial
+Email: comercial@iset.com.br
+
+Atendimento Regional:
+(11) 2626-9740 | (21) 4062-0155 | (31) 2626-2012
+
+Atenciosamente,
+
+iSET - Internet, Soluções e Tecnologia
+Equipe Comercial / Relações Empresariais
+www.iSET.com.br
+===========================================================
+Registro BR
+
+login: SLB131
+senha: slinfo
+
+Central de atendimento: ica.iset.com.br
+login: slcomputadores.com.br
+senha: BwGkIdD
+===============================================
+Bradesco
+
+https://mup.comercioeletronico.com.br/sepsmanager/senha.asp?loja=004574591
+
+Número do Estabelecimento: 004574591
+Manager: adm_slc4591
+Senha: slinfo981021

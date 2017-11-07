@@ -1,0 +1,4 @@
+quando tiver que misturar duas animações, usar goto
+pra fazer loading é só usar getURL
+
+web.marcos@hotmail.com

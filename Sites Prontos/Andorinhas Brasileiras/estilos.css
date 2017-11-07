@@ -1,0 +1,36 @@
+<style type="text/css">
+body {
+	background-image: url(imagens/fundo.jpg);
+	background-repeat: repeat-x;
+	background-color: #CCC;
+	text-align: justify;
+}
+.tipografiaTitulo {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 36px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bolder;
+	font-variant: normal;
+	text-transform: lowercase;
+	color: #d1d2CC;
+}
+.tipografiaMenu {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: lowercase;
+	color: #FFF;
+	text-decoration: none;
+}
+
+.nomeEmpresa {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 30px;
+	color: #CCC;
+	text-shadow: 0px 3px 8px #2a2a2a;
+}
+</style>
